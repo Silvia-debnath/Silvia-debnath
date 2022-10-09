@@ -1,4 +1,4 @@
-<h1>👾Silvia</h1>
+<h1>👾 Silvia Debnath </h1>
 
 - 🌱 I’m currently learning C programming, Web Development
 - ☘️ Interested in learning about Data Science and Web Development! 
