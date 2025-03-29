@@ -1,8 +1,5 @@
 # 💫 About Me:
-I’m currently learning Full Stack Web Development and cloud technologies
-☘️ Interested in learning about ML and Web Development!
-💬 Ask me about Java, C, C++, Web Development
-😄 Pronouns: she/her
+A passionate SRM 26 graduate proficient in full-stack web development and cloud technologies. Eager to build innovative solutions and currently expanding my skillset in the exciting domains of Artificial Intelligence and Machine Learning. Constantly seeking opportunities to learn and contribute to impactful projects.
 
 
 ## 🌐 Socials:
