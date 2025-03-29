@@ -1,5 +1,8 @@
 # 💫 About Me:
-    I’m currently learning Full Stack Web Development and cloud technologies<br>☘️ Interested in learning about ML and Web Development!<br>💬 Ask me about Java, C, C++, Web Development<br>📫 How to reach me: trisitasilvia123debnath@gmail.com<br>😄 Pronouns: she/her<br>
+I’m currently learning Full Stack Web Development and cloud technologies
+☘️ Interested in learning about ML and Web Development!
+💬 Ask me about Java, C, C++, Web Development
+😄 Pronouns: she/her
 
 
 ## 🌐 Socials:
