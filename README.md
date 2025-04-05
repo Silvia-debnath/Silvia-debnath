@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate SRM 26 graduate proficient in full-stack web development and cloud technologies. Eager to build innovative solutions and currently expanding my skillset in the exciting domains of Artificial Intelligence and Machine Learning. Constantly seeking opportunities to learn and contribute to impactful projects.
+A passionate SRM 26 graduate proficient in full-stack web development and cloud technologies. Eager to build innovative solutions and currently expanding my skillset in the exciting domains of Cloud Computing and Machine Learning. Constantly seeking opportunities to learn and contribute to impactful projects.
 
 
 ## 🌐 Socials:
